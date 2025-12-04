@@ -6,7 +6,7 @@ Olá, meu nome é Ademir Arruda, tenho 19 anos e utilizo este local como demonst
 
 Aqui você encontra meus projetos, estudos e experimentos que refletem meu crescimento constante de forma acadêmica e profissional.
 
----
+<hr style="border: none; border-top: 2px solid purple; margin: 20px 0;">
 
 ### 🚀 Habilidades e Tecnologias
 
@@ -45,12 +45,3 @@ Aqui estão as tecnologias que utilizo nos meus projetos e estudos, organizadas 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/Ademir2303">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ademir2303&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_color=9f71c3"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ademir2303&layout=compact&langs_count=7&theme=dracula&border_color=9f71c3"/>
-  </a>
-</div>
