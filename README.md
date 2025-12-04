@@ -50,7 +50,7 @@ Aqui estão as tecnologias que utilizo nos meus projetos e estudos, organizadas 
 
 <div align="center">
   <a href="https://github.com/Ademir2303">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ademir2303&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ademir2303&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ademir2303&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_color=9f71c3"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ademir2303&layout=compact&langs_count=7&theme=dracula&border_color=9f71c3"/>
   </a>
 </div>
